@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WebSocketClientJava</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="title">Animal Sounds</string>
+    <string name="dog_pic">Image of a dog</string>
+    <string name="cat_pic">Image of a cat</string>\
+    <string name="zebra_pic">Image of a zebra</string>
+    <string name="lion_pic">Image of a lion</string>
+    <string name="custom_pic">Image of a custom animal</string>
+
+</resources>
